@@ -2,7 +2,7 @@
 
 # Froggit-Go
 
-[![Frogbot](images/header.png)](#readme)
+[![Froggit-Go](images/header.png)](#readme)
 
 </div>
 
